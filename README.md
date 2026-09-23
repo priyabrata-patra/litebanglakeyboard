@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/thumbnail?id=10FKe-hhKQE3udPgkadVs7wOw-lfzVTxI&sz=s4000" height="120" width="120" alt="Lite Bangla Keyboard Software for Windows logo" title="Lite Bangla Keyboard Software for Windows logo" />
+<p align="center"><img src="https://drive.google.com/thumbnail?id=10FKe-hhKQE3udPgkadVs7wOw-lfzVTxI&sz=s4000" height="120" width="120" alt="Lite Bangla Keyboard Software for Windows logo" title="Lite Bangla Keyboard Software for Windows logo" /></p>
 
 # Lite Bangla Keyboard Software for Windows
 
