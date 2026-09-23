@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/thumbnail?id=10FKe-hhKQE3udPgkadVs7wOw-lfzVTxI&sz=s4000" height="120" width="120" alt="Lite Bangla Keyboard Software for Windows logo" aligh="center" title="Lite Bangla Keyboard Software for Windows logo" />
+<img src="https://drive.google.com/thumbnail?id=10FKe-hhKQE3udPgkadVs7wOw-lfzVTxI&sz=s4000" height="120" width="120" alt="Lite Bangla Keyboard Software for Windows logo" title="Lite Bangla Keyboard Software for Windows logo" />
 
 # Lite Bangla Keyboard Software for Windows
 
@@ -29,6 +29,7 @@ You can use the websites below to download Lite Bangla Keyboard.
 ## Key Features
 
 ### Easy English & Bangla Switching
+<img src="https://drive.google.com/thumbnail?id=1WW8nxLgVKAxp7NVXNrcw9_PkboDsygLe&sz=s4000" />
 Use both English and Bangla keyboards easily. Press `Alt + Ctrl` to quickly switch between English and Bangla typing modes.
 
 ### Easy Auto-Start Control
