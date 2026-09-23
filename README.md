@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=download&id=1Yt05dJt7KY9ZYEmvwvjHaDG3h" alt="banglakeyboard.js javaScript library logo" title="banglakeyboard.js javaScript library logo" />
 
-# Lite Bangla Keyboard software for Windows
+# Lite Bangla Keyboard Software for Windows
 
 Lite Bangla Keyboard is a lightweight and easy-to-use Windows software designed to make Bangla typing simple and convenient. It works as a phonetic Bangla keyboard, allowing users to type Bangla words using familiar English letters.
 
@@ -21,7 +21,7 @@ Lite Bangla Keyboard is suitable for everyday Bangla typing on Windows computers
 ## Download for Windows
 You can use the websites below to download Lite Bangla Keyboard.
 
-| Side name| Link|
+| Side Name| Link|
 | --- | --- |
 | 1 | Download |
 | 2 | Download      |
