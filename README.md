@@ -23,7 +23,7 @@ You can use the websites below to download Lite Bangla Keyboard.
 
 | Side Name| Link|
 | --- | --- |
-| 1 | Download |
+| Direct | [Download](https://github.com/priyabrata-patra/litebanglakeyboard/releases/download/v1.0.0/Lite.Bangla.Keyboard-Setup-1.0.0.exe) |
 | 2 | Download      |
 
 ## Key Features
