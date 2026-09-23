@@ -29,13 +29,13 @@ You can use the websites below to download Lite Bangla Keyboard.
 ## Key Features
 
 ### Easy English & Bangla Switching
-    Use both English and Bangla keyboards easily. Press Alt + Ctrl to quickly switch between English and Bangla typing modes.
+Use both English and Bangla keyboards easily. Press `Alt + Ctrl` to quickly switch between English and Bangla typing modes.
 
 ### Easy Auto-Start Control
    Easily turn the Auto-Start feature ON or OFF according to your preference. You can choose whether the keyboard should start automatically with Windows.
 
 ### Quick Phonetic Layout Menu
-   Press Ctrl twice to open the phonetic layout menu. It clearly shows which English key produces which Bangla character, making Bangla typing easy to learn. You can also turn the layout display OFF whenever you want.
+   Press `Ctrl` twice to open the phonetic layout menu. It clearly shows which English key produces which Bangla character, making Bangla typing easy to learn. You can also turn the layout display OFF whenever you want.
 
 ### Easy Juktakkor Letter Typing
    Type Bangla Juktakkor letters quickly and easily using English keys. For example, to type “ক্ত”, simply type k + T.
