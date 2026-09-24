@@ -86,8 +86,7 @@ After downloading, locate the installer file in your Downloads folder or the loc
 
 ### Step 2: Run the Installer
 
-<img src="https://drive.google.com/thumbnail?id=1L2bHynZngZ_ZmkQ1h57SrVIgh23W_ZiK&sz=s4000
-" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
+<img src="https://drive.google.com/thumbnail?id=1L2bHynZngZ_ZmkQ1h57SrVIgh23W_ZiK&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
 
 Double-click the Lite Bangla Keyboard installer file to start the installation process.
 
@@ -123,7 +122,7 @@ The installer will copy the required application files to your computer and crea
 
 ### Step 7: Finish the Installation
 
-<img src="https://drive.google.com/thumbnail?id=1dyyhkO68FCrft1reyTezhoQOMDb818OD&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
+<img src="https://drive.google.com/thumbnail?id=1Q1yTgJygnb2pEzhnzX2KXfffsz9CVbqU&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
 
 After the installation is complete, click Finish to close the installer.
 
