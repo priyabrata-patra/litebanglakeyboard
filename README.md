@@ -185,7 +185,7 @@ This makes Bangla typing easy even if you are not familiar with a traditional Ba
 
 ### 4. Use It in Different Applications
 
-<img src="https://drive.google.com/thumbnail?id=1pX_ViT1GigIu-xGCufByVww6E1b7AHSP&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
+<img src="https://drive.google.com/thumbnail?id=1At9_e8V5FKqTHaRyX6qbBcR9dLKK6D3G&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
 
 Lite Bangla Keyboard is designed to work with various Windows applications. You can use it for typing Bangla in text editors, browsers, documents, messaging applications, and other supported software.
 
