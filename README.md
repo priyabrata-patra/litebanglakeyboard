@@ -212,3 +212,71 @@ Once Bangla Mode is enabled, simply place the cursor in any supported text field
 
 Lite Bangla Keyboard makes Bangla typing simple, fast, and convenient for everyday Windows use.
 
+## System Tray – Where It Is and How to Use It
+
+When Lite Bangla Keyboard is running in the background, you can find its icon in the Windows System Tray. The System Tray is the small area on the Windows taskbar where Windows displays background applications and system icons.
+
+#### Where is the System Tray?
+
+The System Tray is usually located on the right side of the Windows taskbar, near the clock, date, Wi-Fi, sound, and battery icons.
+
+You may see an area similar to:
+
+Network → Volume → Battery → Other System Icons → Date & Time
+
+#### How to Open Lite Bangla Keyboard from the System Tray
+
+When Lite Bangla Keyboard is running in the background, you can open its main window from the System Tray.
+
+1. Find the Lite Bangla Keyboard icon in the System Tray.
+2. Left-click the icon.
+3. The Lite Bangla Keyboard Home window will open.
+4. From the Home window, you can access the available keyboard and application settings.
+
+#### Using the Right-Click Menu
+
+You can also use the System Tray menu to quickly access different options.
+
+1. Find the Lite Bangla Keyboard icon.
+2. Right-click the icon.
+3. A menu will appear.
+4. You can select the required option from the menu, such as:
+   ```
+   - Home – Use Opens the Lite Bangla Keyboard Home window.
+   - Change Keyboard – You can also change the keyboard by clicking here.
+   - Layout Menu - Use Opens the Lite Bangla Keyboard Layout Menu window.
+   - Off full Program (Exit) – Closes Lite Bangla Keyboard completely.
+   ```
+
+#### Why Does Lite Bangla Keyboard Use the System Tray?
+
+Lite Bangla Keyboard can continue running in the background so that you can use Bangla typing without keeping the main application window open all the time.
+
+This keeps the desktop clean and allows quick access to the application whenever you need it.
+
+If You Cannot Find the Icon
+
+If you cannot see the Lite Bangla Keyboard icon:
+
+1. Check the ^ (Show hidden icons) section.
+2. Make sure Lite Bangla Keyboard is running.
+3. If Auto Start is enabled, the application may already be running in the background after Windows starts.
+4. You can also start Lite Bangla Keyboard again from its desktop shortcut or Start Menu.
+
+#### Closing the Application
+
+If you want to completely stop Lite Bangla Keyboard, right-click its System Tray icon and select Exit.
+
+After selecting Exit, the application will stop running in the background, and Bangla typing through Lite Bangla Keyboard will no longer be available until you start the application again.
+
+Or, you can use `Ctrl + Shift + F11` shortcut to completely turn off the program.
+
+Quick Summary
+
+System Tray → Lite Bangla Keyboard Icon → Left-click = Open
+
+System Tray → Lite Bangla Keyboard Icon → Right-click = Menu
+
+The System Tray provides a convenient way to access Lite Bangla Keyboard while keeping the application running quietly in the background.
+
+
