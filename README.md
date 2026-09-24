@@ -134,7 +134,7 @@ You can start Lite Bangla Keyboard using the Desktop Shortcut or from the Window
 
 After starting, the application can continue running in the background and its icon can be accessed from the Windows System Tray.
 
-Step 9: Start Typing in Bangla
+### Step 9: Start Typing in Bangla
 
 Open any application where you want to type.
 
@@ -165,7 +165,7 @@ You can easily switch between English and Bangla typing modes using the `Alt + C
 - Bangla Mode: Type using English letters and the software will types them into Bangla.
 - English Mode: Your keyboard will work normally and type English characters.
 
-3. Type Bangla Phonetically
+### 3. Type Bangla Phonetically
 
 Simply type Bangla words using English letters. The keyboard types your phonetic input into Unicode Bangla text.
 
@@ -218,6 +218,8 @@ When Lite Bangla Keyboard is running in the background, you can find its icon in
 
 #### Where is the System Tray?
 
+<img src="https://drive.google.com/thumbnail?id=16agJznXO1Dq6pZ1-UlAHzCV2XuAkZs9a&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
+
 The System Tray is usually located on the right side of the Windows taskbar, near the clock, date, Wi-Fi, sound, and battery icons.
 
 You may see an area similar to:
@@ -234,6 +236,8 @@ When Lite Bangla Keyboard is running in the background, you can open its main wi
 4. From the Home window, you can access the available keyboard and application settings.
 
 #### Using the Right-Click Menu
+
+<img src="https://drive.google.com/thumbnail?id=1FAtKVlegBCxM_44wsfhhIp_JGzLhwxTi&sz=s4000" alt="Lite Bangla Keyboard Software for Windows" title="Lite Bangla Keyboard Software for Windows" />
 
 You can also use the System Tray menu to quickly access different options.
 
