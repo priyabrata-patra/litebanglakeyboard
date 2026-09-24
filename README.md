@@ -275,7 +275,7 @@ After selecting Exit, the application will stop running in the background, and B
 
 Or, you can use `Ctrl + Shift + F11` shortcut to completely turn off the program.
 
-Quick Summary
+#### Quick Summary
 
 System Tray → Lite Bangla Keyboard Icon → Left-click = Open
 
