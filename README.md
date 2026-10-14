@@ -301,7 +301,7 @@ Lite Bangla Keyboard allows users to type Bengali Juktakkor letters using Englis
 | d+dh | দ্ধ |
 | n+d | ন্দ |
 | k+W | ক্ব |
-| l+l | ক্ব |
+| l+l | ল্ল |
 | s+t+r | স্ত্র |
 | Ng+k+Sh | ঙ্ক্ষ |
 | k+Sh+m | ক্ষ্ম |
