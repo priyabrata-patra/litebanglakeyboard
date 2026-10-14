@@ -283,4 +283,37 @@ System Tray → Lite Bangla Keyboard Icon → Right-click = Menu
 
 The System Tray provides a convenient way to access Lite Bangla Keyboard while keeping the application running quietly in the background.
 
+## Juktakkor Letter Typing Methods in Lite Bangla Keyboard
+
+Lite Bangla Keyboard allows users to type Bengali Juktakkor letters using English keys.
+
+| Typing Method| Juktakkor|
+| --- | --- |
+| k+t | ক্ত |
+| k+Sh | ক্ষ |
+| k+k | ক্ক |
+| k+r | ক্র |
+| k+l | ক্ল |
+| g+r | গ্র |
+| p+r | প্র |
+| b+r | ব্র |
+| t+r | ত্র |
+| d+dh | দ্ধ |
+| n+d | ন্দ |
+| k+W | ক্ব |
+| l+l | ক্ব |
+| s+t+r | স্ত্র |
+| Ng+k+Sh | ঙ্ক্ষ |
+| k+Sh+m | ক্ষ্ম |
+| h+d+r | হ্দ্র |
+| t+t+W | ত্ত্ব |
+| k+m | ক্ম |
+| b+W | ব্ব |
+| n+m | ন্ম |
+| n+n | ন্ন |
+| c+ch | চ্ছ |
+
+Note: These are just examples. Lite Bangla Keyboard makes it easy to type all bengali juktakkor letters.
+
+
 
